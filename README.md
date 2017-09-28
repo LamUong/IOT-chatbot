@@ -1,9 +1,9 @@
 # IOT-chatbot
 IOT chatbot
 
-Intent based chatbot.\n
-Word are embedded using Glovetext and also fine tuned during training.\n
-Inception module used.\n
+Intent based chatbot.
+Word are embedded using Glovetext and also fine tuned during training.
+Inception module used.
 
 Members: Bill Qi/ Lam Uong
 
